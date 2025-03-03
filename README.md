@@ -1,7 +1,7 @@
 # 📊 Análisis de Agrupamiento en Datos de la Competición DE mediante Algoritmos de Clustering
 
 ## 📌 Descripción  
-Este proyecto evalúa diversos algoritmos de **aprendizaje no supervisado** para identificar agrupamientos en los datos de la competición DE. Para ello se han cogido los datos provenientes de la competición: https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/. 
+Este proyecto evalúa diversos algoritmos de **aprendizaje no supervisado** para identificar agrupamientos en los datos de la competición DE. Para ello se han cogido los datos provenientes de la competición: https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/. El archivo es *dengue_features_train.csv*.
 
 La metodología se divide en dos fases:
 
