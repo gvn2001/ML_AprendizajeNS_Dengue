@@ -1,7 +1,9 @@
 # 📊 Análisis de Agrupamiento en Datos de la Competición DE mediante Algoritmos de Clustering
 
 ## 📌 Descripción  
-Este proyecto evalúa diversos algoritmos de **aprendizaje no supervisado** para identificar agrupamientos en los datos de la competición DE. La metodología se divide en dos fases:
+Este proyecto evalúa diversos algoritmos de **aprendizaje no supervisado** para identificar agrupamientos en los datos de la competición DE. Para ello se han cogido los datos provenientes de la competición: https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/. 
+
+La metodología se divide en dos fases:
 
 1. **Exploración y selección de características**: Se realiza un análisis estadístico del conjunto de datos y se imputan valores nulos mediante técnicas iterativas. La selección de características se basa en **K-Means** y **clustering jerárquico**.
 2. **Aplicación de algoritmos de clustering**: Se implementan cuatro métodos de agrupamiento, incluyendo uno no estudiado en clase. Para visualizar los resultados, se utilizan técnicas de **reducción de dimensionalidad**.
